@@ -1,0 +1,23 @@
+/* CREATE PAGE SPECIFIC STYLES */
+
+/* -------------------  MOBILE  --------------------- */
+
+header {
+  background-image: url('https://cdn-cms.f-static.net/uploads/213536/2000_5c82c271b9d40.jpg');
+}
+
+
+/* -------------------  TABLET  --------------------- */
+@media (min-width: 768px) {
+
+}
+
+/* -------------------  DESKTOP  -------------------- */
+
+@media (min-width: 1224px) {
+}
+
+/* -------------------  LARGE SCREENS  -------------- */
+
+@media (min-width: 1824px) {
+}
