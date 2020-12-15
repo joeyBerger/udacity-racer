@@ -2,4 +2,4 @@
 
 ## Project Information
 
-Udactiy project demonstrating various API calls, uses of promises/async functins state managed UI
+Udactiy project demonstrating various API calls, uses of promises/async functions and state managed UI.
